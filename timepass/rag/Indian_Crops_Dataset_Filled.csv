@@ -1,0 +1,38 @@
+Crop,Avg_Harvest_Days,Avg_Irrigation_Days,Moisture_at_Harvest_%,Temp_Range,Humidity_Range
+Rice,120,4,22,20-35,70-90
+Wheat,120,12,20,10-25,40-60
+Maize,105,10,24,18-32,50-70
+Barley,120,12,18,10-25,40-60
+Jowar (Sorghum),110,10,20,20-35,40-60
+Bajra (Pearl millet),85,12,15,20-35,40-60
+Ragi (Finger millet),110,12,16,20-30,50-70
+Tur/Arhar (Pigeon pea),165,15,18,18-30,40-60
+Moong (Green gram),65,12,14,25-35,40-60
+Urad (Black gram),75,12,14,25-35,40-60
+Masoor (Lentil),115,12,14,15-25,40-60
+Chickpea (Gram),115,12,14,15-25,40-60
+Groundnut (Peanut),115,10,16,22-30,50-70
+Soybean,105,10,16,20-30,50-70
+Mustard/Rapeseed,120,15,12,10-25,40-60
+Sunflower,95,10,10,20-30,40-60
+Sesame (Til),90,10,12,25-35,40-60
+Cotton,170,7,10,21-30,50-60
+Jute,135,7,60,24-35,70-90
+Sugarcane,360,10,70,20-35,60-80
+Potato,100,7,80,15-20,60-80
+Onion,120,5,85,13-25,50-70
+Tomato,110,5,93,18-27,60-80
+Chilli (Red),140,6,85,20-30,50-70
+Brinjal (Eggplant),130,5,92,20-30,60-80
+Okra (Bhindi),60,5,90,22-35,60-80
+Cabbage,105,5,92,10-20,60-80
+Cauliflower,105,5,92,12-20,60-80
+Banana,360,4,75,20-35,60-90
+Mango (from flowering),120,7,82,24-35,50-80
+Tea (flush cycle),14,5,70,18-30,70-90
+Coffee (flowering to harvest),210,7,60,18-28,70-90
+Black Pepper,210,5,65,20-30,70-90
+Cardamom,150,4,70,10-25,70-90
+Turmeric,240,6,80,20-30,60-90
+Ginger,240,6,85,20-30,60-90
+Coconut (nut maturity),365,7,45,22-32,60-90
