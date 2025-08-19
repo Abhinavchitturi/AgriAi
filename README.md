@@ -1,6 +1,6 @@
 # 🌾 Agriculture AI Assistant
 
-#IMPORTANT
+## IMPORTANT
 First, run the backend, and then wait for sometime until it is finished, because it'll load upto 610 chunks before, which will help the application to run faster.
 So first run the backend and wait for 5 mins, and then run the frontend and start giving the queries. (This is only happens sometimes)
 
