@@ -1,28 +1,10 @@
 # 🌾 Agriculture AI Assistant
 
-**A comprehensive AI-powered agricultural assistant with multilingual support, weather integration, and RAG-based knowledge retrieval.**
+#IMPORTANT
+First, run the backend, and then wait for sometime until it is finished, because it'll load upto 610 chunks before, which will help the application to run faster.
+So first run the backend and wait for 5 mins, and then run the frontend and start giving the queries. (This is only happens sometimes)
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-purple.svg)](https://openai.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 📋 Table of Contents
-
-- [🌾 Overview](#-overview)
-- [🚀 Features](#-features)
-- [🏗️ Architecture](#️-architecture)
-- [📦 Installation](#-installation)
-- [⚙️ Configuration](#️-configuration)
-- [🔑 API Keys Setup](#-api-keys-setup)
-- [🌐 Usage](#-usage)
-- [📚 API Documentation](#-api-documentation)
-- [🧪 Testing](#-testing)
-- [🔧 Development](#-development)
-- [📁 Project Structure](#-project-structure)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🆘 Troubleshooting](#-troubleshooting)
 
 ## 🌾 Overview
 
